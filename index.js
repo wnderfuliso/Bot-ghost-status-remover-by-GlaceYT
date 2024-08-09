@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["<a:pink_stars:1271301426232168540>"];
 
 
 let currentIndex = 0;
